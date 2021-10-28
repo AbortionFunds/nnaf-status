@@ -10,7 +10,7 @@ sites:
     url: https://sandbox.abortionfunds.org
     icon: https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg
   - name: NNAF API
-    url: https://api.nnaf.org/example/hello
+    url: $API_URL
   - name: One Time Secret
     url: https://ots.nnaf.org
     https://ots.nnaf.org/favicon.ico

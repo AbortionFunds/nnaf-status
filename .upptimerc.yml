@@ -13,7 +13,7 @@ sites:
     url: $API_URL
   - name: One Time Secret
     url: https://ots.nnaf.org
-    https://ots.nnaf.org/favicon.ico
+    icon: https://ots.nnaf.org/favicon.ico
   - name: YOURLS
     url: https://nnaf.org/admin
     icon: https://nnaf.org/images/favicon.svg

@@ -58,18 +58,20 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 166,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   },
   {
     "name": "YOURLS",

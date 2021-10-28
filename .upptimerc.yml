@@ -1,26 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AbortionFunds
+repo: nnaf-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: NNAF main website
+    url: https://abortionfunds.org
+    icon: https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg
+  - name: NNAF sandbox website
+    url: https://sandbox.abortionfunds.org
+    icon: https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg
+  - name: NNAF API
+    url: https://api.nnaf.org/example/hello
+  - name: One Time Secret
+    url: https://ots.nnaf.org
+    https://ots.nnaf.org/favicon.ico
+  - name: YOURLS
+    url: https://nnaf.org/admin
+    icon: https://nnaf.org/images/favicon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.nnaf.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: NNAF Status Page
+  introTitle: "**NNAF** status"
+  introMessage: Check here for the status of NNAF-run websites and services.
   navbar:
     - title: Status
       href: /
@@ -29,3 +35,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - dismantl
+robotsText: "User-agent: * \n Disallow: /"

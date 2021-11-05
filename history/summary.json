@@ -5,19 +5,17 @@
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-main-website",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 868,
-    "timeDay": 1445,
-    "timeWeek": 868,
-    "timeMonth": 868,
-    "timeYear": 868,
-    "dailyMinutesDown": {
-      "2021-11-01": 17
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 844,
+    "timeDay": 550,
+    "timeWeek": 815,
+    "timeMonth": 844,
+    "timeYear": 844,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NNAF sandbox website",
@@ -25,19 +23,17 @@
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 869,
-    "timeDay": 765,
-    "timeWeek": 869,
-    "timeMonth": 869,
-    "timeYear": 869,
-    "dailyMinutesDown": {
-      "2021-11-01": 17
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 855,
+    "timeDay": 680,
+    "timeWeek": 842,
+    "timeMonth": 855,
+    "timeYear": 855,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NNAF API",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 359,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 307,
+    "timeDay": 171,
+    "timeWeek": 293,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -63,19 +59,17 @@
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 291,
-    "timeDay": 275,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
-    "dailyMinutesDown": {
-      "2021-10-28": 18
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 278,
+    "timeDay": 125,
+    "timeWeek": 331,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {}
   },
   {
     "name": "YOURLS",
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 374,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 384,
+    "timeDay": 111,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   }
 ]

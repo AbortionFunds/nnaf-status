@@ -4,36 +4,40 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 690,
-    "timeWeek": 655,
-    "timeMonth": 836,
-    "timeYear": 836,
-    "dailyMinutesDown": {}
+    "time": 832,
+    "timeDay": 708,
+    "timeWeek": 662,
+    "timeMonth": 832,
+    "timeYear": 832,
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "NNAF sandbox website",
     "url": "https://sandbox.abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 521,
-    "timeWeek": 741,
-    "timeMonth": 817,
-    "timeYear": 817,
-    "dailyMinutesDown": {}
+    "time": 807,
+    "timeDay": 547,
+    "timeWeek": 725,
+    "timeMonth": 807,
+    "timeYear": 807,
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "NNAF API",

@@ -5,19 +5,17 @@
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-main-website",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 829,
-    "timeDay": 768,
-    "timeWeek": 696,
-    "timeMonth": 829,
-    "timeYear": 829,
-    "dailyMinutesDown": {
-      "2021-11-14": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 826,
+    "timeDay": 777,
+    "timeWeek": 704,
+    "timeMonth": 826,
+    "timeYear": 826,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NNAF sandbox website",
@@ -25,19 +23,17 @@
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 854,
-    "timeDay": 966,
-    "timeWeek": 845,
-    "timeMonth": 854,
-    "timeYear": 854,
-    "dailyMinutesDown": {
-      "2021-11-14": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 853,
+    "timeDay": 1028,
+    "timeWeek": 864,
+    "timeMonth": 853,
+    "timeYear": 853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NNAF API",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 171,
-    "timeWeek": 156,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 257,
+    "timeDay": 206,
+    "timeWeek": 174,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 246,
-    "timeWeek": 292,
+    "timeDay": 295,
+    "timeWeek": 289,
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {}
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 89,
-    "timeWeek": 214,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "time": 328,
+    "timeDay": 372,
+    "timeWeek": 250,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]

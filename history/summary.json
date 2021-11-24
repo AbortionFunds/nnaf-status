@@ -4,19 +4,19 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 884,
-    "timeWeek": 740,
-    "timeMonth": 809,
-    "timeYear": 809,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 811,
+    "timeDay": 894,
+    "timeWeek": 756,
+    "timeMonth": 811,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2021-11-24": 0
+      "2021-11-24": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sandbox.abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 676,
-    "timeWeek": 903,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 876,
+    "timeDay": 943,
+    "timeWeek": 951,
+    "timeMonth": 876,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2021-11-24": 0
+      "2021-11-24": 23
     }
   },
   {

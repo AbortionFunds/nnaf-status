@@ -24,10 +24,10 @@
     "url": "https://sandbox.abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 719,
@@ -36,6 +36,7 @@
     "timeMonth": 530,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-01-10": 2,
       "2021-11-24": 23
     }
   },
@@ -44,10 +45,10 @@
     "url": "$API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
@@ -55,17 +56,19 @@
     "timeWeek": 303,
     "timeMonth": 273,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "One Time Secret",
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
@@ -73,16 +76,18 @@
     "timeWeek": 313,
     "timeMonth": 305,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "YOURLS",
     "url": "https://nnaf.org/admin",
     "icon": "https://nnaf.org/images/favicon.svg",
     "slug": "yourls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +96,8 @@
     "timeWeek": 420,
     "timeMonth": 348,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 0
+    }
   }
 ]

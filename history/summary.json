@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 798,
-    "timeDay": 670,
-    "timeWeek": 826,
-    "timeMonth": 787,
-    "timeYear": 798,
+    "time": 799,
+    "timeDay": 888,
+    "timeWeek": 843,
+    "timeMonth": 788,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2021-11-24": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 749,
-    "timeDay": 323,
-    "timeWeek": 1035,
+    "time": 747,
+    "timeDay": 551,
+    "timeWeek": 1033,
     "timeMonth": 635,
-    "timeYear": 749,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2022-01-10": 39,
       "2021-11-24": 23
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nnaf-api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
-    "time": 263,
-    "timeDay": 201,
-    "timeWeek": 232,
-    "timeMonth": 249,
-    "timeYear": 263,
+    "uptimeYear": "99.97%",
+    "time": 262,
+    "timeDay": 202,
+    "timeWeek": 227,
+    "timeMonth": 241,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2022-01-10": 39
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 285,
-    "timeDay": 251,
-    "timeWeek": 306,
-    "timeMonth": 293,
-    "timeYear": 285,
+    "time": 284,
+    "timeDay": 260,
+    "timeWeek": 295,
+    "timeMonth": 289,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2022-01-10": 38
     }
@@ -92,9 +92,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 325,
-    "timeDay": 100,
-    "timeWeek": 333,
-    "timeMonth": 314,
+    "timeDay": 367,
+    "timeWeek": 319,
+    "timeMonth": 305,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2022-01-10": 38

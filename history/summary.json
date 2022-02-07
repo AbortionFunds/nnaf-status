@@ -6,17 +6,16 @@
     "slug": "nnaf-main-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 781,
-    "timeDay": 729,
-    "timeWeek": 731,
-    "timeMonth": 742,
-    "timeYear": 781,
+    "time": 782,
+    "timeDay": 770,
+    "timeWeek": 748,
+    "timeMonth": 745,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-02-06": 13,
       "2021-11-24": 23
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 699,
-    "timeDay": 356,
-    "timeWeek": 436,
-    "timeMonth": 626,
-    "timeYear": 699,
+    "time": 698,
+    "timeDay": 622,
+    "timeWeek": 461,
+    "timeMonth": 628,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2022-01-10": 39,
       "2021-11-24": 23
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 255,
-    "timeDay": 251,
-    "timeWeek": 185,
-    "timeMonth": 229,
+    "timeDay": 216,
+    "timeWeek": 186,
+    "timeMonth": 228,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2022-01-10": 39
@@ -73,9 +72,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 281,
-    "timeDay": 228,
-    "timeWeek": 239,
-    "timeMonth": 278,
+    "timeDay": 268,
+    "timeWeek": 240,
+    "timeMonth": 276,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2022-01-10": 38
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 329,
-    "timeDay": 404,
-    "timeWeek": 392,
-    "timeMonth": 341,
-    "timeYear": 329,
+    "time": 330,
+    "timeDay": 380,
+    "timeWeek": 394,
+    "timeMonth": 338,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2022-01-10": 38
     }

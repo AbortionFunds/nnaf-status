@@ -6,9 +6,9 @@
     "slug": "nnaf-main-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 788,
     "timeDay": 873,
@@ -16,7 +16,6 @@
     "timeMonth": 782,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-03-19": 6,
       "2021-11-24": 23
     }
   },
@@ -27,9 +26,9 @@
     "slug": "nnaf-sandbox-website",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 765,
     "timeDay": 608,
@@ -37,7 +36,6 @@
     "timeMonth": 831,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-03-19": 6,
       "2022-02-17": 73,
       "2022-01-10": 39,
       "2021-11-24": 23

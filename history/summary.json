@@ -25,18 +25,19 @@
     "url": "https://sandbox.abortionfunds.org",
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 802,
+    "time": 801,
     "timeDay": 4334,
     "timeWeek": 1453,
     "timeMonth": 970,
     "timeYear": 815,
     "dailyMinutesDown": {
+      "2023-05-20": 0,
       "2022-06-28": 481,
       "2022-06-25": 64
     }
@@ -46,18 +47,20 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 246,
-    "timeWeek": 280,
-    "timeMonth": 228,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 244,
+    "timeDay": 426,
+    "timeWeek": 321,
+    "timeMonth": 241,
+    "timeYear": 247,
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "One Time Secret",

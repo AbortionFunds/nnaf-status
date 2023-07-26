@@ -26,15 +26,15 @@
     "uptime": "97.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.59%",
-    "uptimeYear": "96.22%",
+    "uptimeMonth": "54.58%",
+    "uptimeYear": "96.21%",
     "time": 808,
     "timeDay": 252,
     "timeWeek": 285,
     "timeMonth": 688,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-07-26": 656,
+      "2023-07-26": 661,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -56,19 +56,19 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 343,
-    "timeWeek": 302,
-    "timeMonth": 247,
-    "timeYear": 244,
+    "timeDay": 265,
+    "timeWeek": 287,
+    "timeMonth": 245,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-07-26": 7
+      "2023-07-26": 11
     }
   },
   {
@@ -78,18 +78,16 @@
     "slug": "one-time-secret",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 387,
     "timeWeek": 335,
     "timeMonth": 291,
     "timeYear": 293,
-    "dailyMinutesDown": {
-      "2023-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YOURLS",
@@ -98,17 +96,15 @@
     "slug": "yourls",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 475,
     "timeWeek": 446,
     "timeMonth": 391,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2023-07-26": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]

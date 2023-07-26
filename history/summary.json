@@ -26,7 +26,7 @@
     "uptime": "97.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.58%",
+    "uptimeMonth": "54.54%",
     "uptimeYear": "96.21%",
     "time": 808,
     "timeDay": 252,
@@ -34,7 +34,7 @@
     "timeMonth": 688,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2023-07-26": 661,
+      "2023-07-26": 676,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -56,11 +56,11 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
     "timeDay": 265,
@@ -68,7 +68,7 @@
     "timeMonth": 245,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-07-26": 11
+      "2023-07-26": 0
     }
   },
   {

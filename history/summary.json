@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 299,
-    "timeWeek": 394,
-    "timeMonth": 288,
+    "timeDay": 249,
+    "timeWeek": 383,
+    "timeMonth": 293,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2023-08-08": 24
@@ -25,15 +25,15 @@
     "icon": "https://abortionfunds.org/cms/assets/uploads/2016/08/cropped-favicon3-32x32.jpg",
     "slug": "nnaf-sandbox-website",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.48%",
+    "uptimeMonth": "38.76%",
     "uptimeYear": "92.06%",
-    "time": 815,
-    "timeDay": 1065,
+    "time": 816,
+    "timeDay": 971,
     "timeWeek": 981,
-    "timeMonth": 773,
+    "timeMonth": 790,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2023-08-10": 921,
@@ -80,10 +80,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 189,
-    "timeWeek": 262,
+    "timeDay": 289,
+    "timeWeek": 263,
     "timeMonth": 255,
-    "timeYear": 243,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-08-17": 23
     }
@@ -100,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 347,
-    "timeWeek": 302,
-    "timeMonth": 304,
-    "timeYear": 294,
+    "timeDay": 242,
+    "timeWeek": 300,
+    "timeMonth": 301,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -118,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 567,
-    "timeWeek": 412,
-    "timeMonth": 410,
-    "timeYear": 387,
+    "timeDay": 330,
+    "timeWeek": 378,
+    "timeMonth": 405,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   }
 ]

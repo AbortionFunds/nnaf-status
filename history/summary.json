@@ -27,18 +27,18 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "88.52%",
+    "uptime": "88.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.60%",
+    "uptimeYear": "76.40%",
     "time": 798,
     "timeDay": 228,
     "timeWeek": 236,
     "timeMonth": 213,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2023-11-16": 18,
+      "2023-11-16": 1087,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -133,9 +133,9 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -145,6 +145,7 @@
     "timeMonth": 235,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-11-14": 24,
       "2023-08-17": 23
     }
@@ -154,27 +155,29 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
+    "time": 294,
     "timeDay": 289,
     "timeWeek": 287,
     "timeMonth": 279,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "YOURLS",
     "url": "https://nnaf.org/admin",
     "icon": "https://nnaf.org/images/favicon.svg",
     "slug": "yourls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,6 +186,8 @@
     "timeWeek": 332,
     "timeMonth": 348,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]

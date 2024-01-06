@@ -4,11 +4,11 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 297,
     "timeDay": 383,
@@ -16,6 +16,7 @@
     "timeMonth": 353,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2024-01-06": 2,
       "2023-09-05": 168,
       "2023-08-29": 132,
       "2023-08-08": 24
@@ -27,18 +28,18 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "82.87%",
+    "uptime": "82.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.63%",
+    "uptimeYear": "62.48%",
     "time": 743,
     "timeDay": 149,
     "timeWeek": 197,
     "timeMonth": 223,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-01-06": 18,
+      "2024-01-06": 778,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -184,10 +185,10 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
@@ -196,6 +197,7 @@
     "timeMonth": 225,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2023-11-14": 24,
       "2023-08-17": 23
     }
@@ -205,27 +207,29 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
+    "time": 295,
     "timeDay": 262,
     "timeWeek": 298,
     "timeMonth": 286,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "YOURLS",
     "url": "https://nnaf.org/admin",
     "icon": "https://nnaf.org/images/favicon.svg",
     "slug": "yourls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -234,6 +238,8 @@
     "timeWeek": 305,
     "timeMonth": 394,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   }
 ]

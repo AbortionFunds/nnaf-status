@@ -4,11 +4,11 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 297,
     "timeDay": 281,
@@ -16,7 +16,7 @@
     "timeMonth": 348,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-01-06": 7,
+      "2024-01-06": 2,
       "2023-09-05": 168,
       "2023-08-29": 132,
       "2023-08-08": 24
@@ -28,18 +28,18 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "82.82%",
+    "uptime": "82.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.48%",
+    "uptimeYear": "62.43%",
     "time": 743,
     "timeDay": 149,
     "timeWeek": 197,
     "timeMonth": 223,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-01-06": 783,
+      "2024-01-06": 1077,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -185,19 +185,19 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 241,
+    "time": 240,
     "timeDay": 207,
     "timeWeek": 203,
     "timeMonth": 224,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-01-06": 6,
+      "2024-01-06": 1,
       "2023-11-14": 24,
       "2023-08-17": 23
     }
@@ -207,11 +207,11 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 264,
@@ -219,7 +219,7 @@
     "timeMonth": 285,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-01-06": 5
+      "2024-01-06": 0
     }
   },
   {
@@ -229,17 +229,15 @@
     "slug": "yourls",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 305,
     "timeWeek": 314,
     "timeMonth": 394,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2024-01-06": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]

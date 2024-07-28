@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 310,
-    "timeDay": 386,
-    "timeWeek": 349,
-    "timeMonth": 335,
+    "time": 311,
+    "timeDay": 436,
+    "timeWeek": 373,
+    "timeMonth": 342,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2023-09-05": 168,
@@ -27,7 +27,7 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "66.09%",
+    "uptime": "66.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,9 +36,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 527,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-07-27": 20,
+      "2024-07-28": 23,
+      "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -361,8 +362,7 @@
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
-      "2023-07-30": 1440,
-      "2023-07-29": 1440
+      "2023-07-30": 1440
     }
   },
   {
@@ -377,9 +377,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 345,
-    "timeWeek": 200,
-    "timeMonth": 274,
+    "timeDay": 334,
+    "timeWeek": 239,
+    "timeMonth": 272,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-11-14": 24,
@@ -397,11 +397,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 443,
-    "timeWeek": 325,
-    "timeMonth": 334,
-    "timeYear": 310,
+    "time": 307,
+    "timeDay": 524,
+    "timeWeek": 359,
+    "timeMonth": 341,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 630,
-    "timeWeek": 388,
-    "timeMonth": 434,
-    "timeYear": 395,
+    "timeDay": 559,
+    "timeWeek": 428,
+    "timeMonth": 432,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   }
 ]

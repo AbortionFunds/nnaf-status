@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 311,
-    "timeDay": 431,
-    "timeWeek": 367,
-    "timeMonth": 347,
+    "time": 310,
+    "timeDay": 327,
+    "timeWeek": 380,
+    "timeMonth": 350,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2023-09-05": 168,
@@ -27,7 +27,7 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "65.96%",
+    "uptime": "65.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,9 +36,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 529,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-07-29": 22,
+      "2024-07-30": 21,
+      "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -361,8 +362,7 @@
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -377,9 +377,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 132,
-    "timeWeek": 207,
-    "timeMonth": 268,
+    "timeDay": 115,
+    "timeWeek": 205,
+    "timeMonth": 262,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-11-14": 24,
@@ -398,9 +398,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 336,
-    "timeWeek": 339,
-    "timeMonth": 346,
+    "timeDay": 297,
+    "timeWeek": 344,
+    "timeMonth": 345,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -415,11 +415,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 530,
-    "timeWeek": 412,
-    "timeMonth": 438,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 156,
+    "timeWeek": 410,
+    "timeMonth": 430,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]

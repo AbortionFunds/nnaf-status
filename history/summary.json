@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 319,
-    "timeDay": 480,
-    "timeWeek": 350,
-    "timeMonth": 352,
+    "timeDay": 425,
+    "timeWeek": 365,
+    "timeMonth": 355,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2024-09-12": 50
@@ -25,18 +25,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "62.47%",
+    "uptime": "62.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 598,
+    "time": 597,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-09-23": 24,
+      "2024-09-24": 23,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -399,8 +400,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   },
   {
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 252,
-    "timeWeek": 288,
-    "timeMonth": 290,
-    "timeYear": 254,
+    "timeDay": 256,
+    "timeWeek": 271,
+    "timeMonth": 293,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2023-11-14": 24
     }
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 374,
-    "timeWeek": 343,
-    "timeMonth": 347,
+    "timeDay": 135,
+    "timeWeek": 296,
+    "timeMonth": 341,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -453,10 +453,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 442,
-    "timeWeek": 458,
-    "timeMonth": 483,
-    "timeYear": 408,
+    "timeDay": 228,
+    "timeWeek": 390,
+    "timeMonth": 482,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   }
 ]

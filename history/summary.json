@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-30": 1101,
+      "2024-09-30": 1114,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -408,18 +408,19 @@
     "url": "$API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nnaf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
+    "time": 253,
     "timeDay": 255,
     "timeWeek": 253,
     "timeMonth": 286,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2024-09-30": 1,
       "2023-11-14": 24
     }
   },
@@ -428,19 +429,19 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 361,
-    "timeWeek": 307,
-    "timeMonth": 331,
-    "timeYear": 319,
+    "time": 322,
+    "timeDay": 2310,
+    "timeWeek": 801,
+    "timeMonth": 454,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 14
     }
   },
   {
@@ -450,9 +451,9 @@
     "slug": "yourls",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 312,
@@ -460,7 +461,7 @@
     "timeMonth": 475,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 14
     }
   }
 ]

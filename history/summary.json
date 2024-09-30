@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-30": 1114,
+      "2024-09-30": 1123,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -410,17 +410,17 @@
     "slug": "nnaf-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 255,
     "timeWeek": 253,
     "timeMonth": 286,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-09-30": 1,
+      "2024-09-30": 10,
       "2023-11-14": 24
     }
   },
@@ -429,11 +429,11 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 2310,
@@ -441,7 +441,7 @@
     "timeMonth": 454,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-09-30": 14
+      "2024-09-30": 1
     }
   },
   {
@@ -449,19 +449,19 @@
     "url": "https://nnaf.org/admin",
     "icon": "https://nnaf.org/images/favicon.svg",
     "slug": "yourls",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 312,
-    "timeWeek": 348,
-    "timeMonth": 475,
-    "timeYear": 407,
+    "time": 412,
+    "timeDay": 2562,
+    "timeWeek": 906,
+    "timeMonth": 607,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-09-30": 14
+      "2024-09-30": 22
     }
   }
 ]

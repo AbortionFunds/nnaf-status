@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 372,
-    "timeWeek": 382,
-    "timeMonth": 365,
+    "timeDay": 327,
+    "timeWeek": 359,
+    "timeMonth": 359,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2024-09-12": 50
@@ -25,18 +25,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "61.89%",
+    "uptime": "61.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 586,
+    "time": 584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-10-03": 23,
+      "2024-10-04": 23,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -399,8 +400,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   },
   {
@@ -415,8 +415,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 255,
-    "timeWeek": 264,
+    "timeDay": 371,
+    "timeWeek": 277,
     "timeMonth": 277,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -436,9 +436,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 328,
-    "timeDay": 315,
-    "timeWeek": 960,
-    "timeMonth": 527,
+    "timeDay": 454,
+    "timeWeek": 973,
+    "timeMonth": 526,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2024-09-30": 36
@@ -455,11 +455,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 424,
-    "timeDay": 401,
-    "timeWeek": 1448,
-    "timeMonth": 764,
-    "timeYear": 435,
+    "time": 425,
+    "timeDay": 672,
+    "timeWeek": 1477,
+    "timeMonth": 769,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2024-09-30": 40
     }

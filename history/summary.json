@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 325,
-    "timeDay": 449,
-    "timeWeek": 443,
-    "timeMonth": 381,
+    "time": 326,
+    "timeDay": 273,
+    "timeWeek": 349,
+    "timeMonth": 379,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2024-09-12": 50
@@ -25,18 +25,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "61.15%",
+    "uptime": "61.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 567,
+    "time": 564,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 220,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-10-16": 24,
+      "2024-10-17": 24,
+      "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -399,8 +400,7 @@
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
-      "2023-10-19": 1440,
-      "2023-10-18": 1440
+      "2023-10-19": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 185,
-    "timeWeek": 230,
-    "timeMonth": 258,
+    "timeDay": 164,
+    "timeWeek": 199,
+    "timeMonth": 251,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2024-09-30": 46,
@@ -436,9 +436,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 319,
-    "timeWeek": 332,
-    "timeMonth": 524,
+    "timeDay": 290,
+    "timeWeek": 301,
+    "timeMonth": 519,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2024-09-30": 36
@@ -456,9 +456,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 423,
-    "timeDay": 451,
-    "timeWeek": 364,
-    "timeMonth": 703,
+    "timeDay": 374,
+    "timeWeek": 352,
+    "timeMonth": 693,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-09-30": 40

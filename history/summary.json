@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 330,
-    "timeDay": 296,
-    "timeWeek": 362,
-    "timeMonth": 384,
-    "timeYear": 339,
+    "timeDay": 118,
+    "timeWeek": 319,
+    "timeMonth": 373,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2024-09-12": 50
     }
@@ -25,18 +25,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "60.48%",
+    "uptime": "60.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 545,
+    "time": 544,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-10-28": 25,
+      "2024-10-29": 24,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -399,8 +400,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 246,
-    "timeWeek": 304,
-    "timeMonth": 262,
+    "timeDay": 280,
+    "timeWeek": 300,
+    "timeMonth": 258,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-09-30": 46,
@@ -436,9 +436,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 307,
-    "timeWeek": 374,
-    "timeMonth": 530,
+    "timeDay": 359,
+    "timeWeek": 370,
+    "timeMonth": 529,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2024-09-30": 36
@@ -456,9 +456,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 422,
-    "timeDay": 278,
-    "timeWeek": 369,
-    "timeMonth": 695,
+    "timeDay": 430,
+    "timeWeek": 398,
+    "timeMonth": 689,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2024-09-30": 40

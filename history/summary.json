@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 336,
-    "timeWeek": 334,
-    "timeMonth": 377,
+    "timeDay": 420,
+    "timeWeek": 352,
+    "timeMonth": 380,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-09-12": 50
@@ -25,18 +25,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "60.15%",
+    "uptime": "60.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 532,
+    "time": 531,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 222,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-11-03": 26,
+      "2024-11-04": 25,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -399,8 +400,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 222,
-    "timeWeek": 280,
-    "timeMonth": 263,
+    "timeDay": 355,
+    "timeWeek": 295,
+    "timeMonth": 262,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-09-30": 46,
@@ -436,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 330,
-    "timeDay": 250,
-    "timeWeek": 352,
-    "timeMonth": 332,
+    "timeDay": 438,
+    "timeWeek": 371,
+    "timeMonth": 331,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-09-30": 36
@@ -456,9 +456,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 422,
-    "timeDay": 194,
-    "timeWeek": 377,
-    "timeMonth": 369,
+    "timeDay": 441,
+    "timeWeek": 400,
+    "timeMonth": 362,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2024-09-30": 40

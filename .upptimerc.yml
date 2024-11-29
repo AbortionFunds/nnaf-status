@@ -6,9 +6,6 @@ sites:
   - name: NNAF main website
     url: https://abortionfunds.org
     icon: https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png
-  - name: NNAF sandbox website
-    url: https://sandbox.abortionfunds.org
-    icon: https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png
   - name: NNAF API
     url: $API_URL
   - name: One Time Secret

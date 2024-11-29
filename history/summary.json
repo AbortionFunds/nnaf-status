@@ -5,18 +5,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-main-website",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "99.71%",
     "time": 339,
-    "timeDay": 444,
-    "timeWeek": 326,
-    "timeMonth": 339,
+    "timeDay": 0,
+    "timeWeek": 334,
+    "timeMonth": 346,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-11-28": 18,
+      "2024-11-29": 25,
+      "2024-11-28": 1432,
       "2024-09-12": 50
     }
   },
@@ -26,18 +27,19 @@
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-sandbox-website",
     "status": "down",
-    "uptime": "58.81%",
+    "uptime": "58.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 524,
+    "time": 526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 223,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-11-28": 26,
+      "2024-11-29": 25,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -400,8 +402,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -415,10 +416,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 255,
-    "timeDay": 159,
-    "timeWeek": 292,
-    "timeMonth": 284,
+    "time": 256,
+    "timeDay": 415,
+    "timeWeek": 320,
+    "timeMonth": 289,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-09-30": 46
@@ -436,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 348,
-    "timeWeek": 355,
-    "timeMonth": 346,
-    "timeYear": 343,
+    "timeDay": 709,
+    "timeWeek": 419,
+    "timeMonth": 357,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2024-09-30": 36
     }
@@ -456,10 +457,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 434,
-    "timeDay": 418,
-    "timeWeek": 463,
-    "timeMonth": 571,
-    "timeYear": 454,
+    "timeDay": 611,
+    "timeWeek": 499,
+    "timeMonth": 577,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2024-09-30": 40
     }

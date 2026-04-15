@@ -50,9 +50,9 @@
     "url": "https://ots.nnaf.org",
     "icon": "https://ots.nnaf.org/favicon.ico",
     "slug": "one-time-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -62,6 +62,7 @@
     "timeMonth": 366,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2026-04-15": 0,
       "2025-11-18": 148,
       "2025-11-12": 682,
       "2025-08-04": 96

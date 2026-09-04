@@ -4,17 +4,17 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1032,
-    "timeDay": 1467,
-    "timeWeek": 1085,
-    "timeMonth": 813,
-    "timeYear": 1082,
+    "time": 1031,
+    "timeDay": 901,
+    "timeWeek": 922,
+    "timeMonth": 798,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2025-12-17": 999,
@@ -27,7 +27,8 @@
       "2026-07-03": 21,
       "2026-07-05": 25,
       "2026-07-26": 9,
-      "2026-07-25": 15
+      "2026-07-25": 15,
+      "2026-09-04": 0
     }
   },
   {
@@ -43,7 +44,7 @@
     "uptimeYear": "99.83%",
     "time": 415,
     "timeDay": 362,
-    "timeWeek": 362,
+    "timeWeek": 343,
     "timeMonth": 293,
     "timeYear": 420,
     "dailyMinutesDown": {
@@ -66,7 +67,7 @@
     "uptimeYear": "99.84%",
     "time": 415,
     "timeDay": 383,
-    "timeWeek": 642,
+    "timeWeek": 396,
     "timeMonth": 601,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -88,7 +89,7 @@
     "uptimeYear": "99.82%",
     "time": 668,
     "timeDay": 806,
-    "timeWeek": 832,
+    "timeWeek": 570,
     "timeMonth": 594,
     "timeYear": 690,
     "dailyMinutesDown": {

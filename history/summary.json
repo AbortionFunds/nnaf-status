@@ -4,17 +4,17 @@
     "url": "https://abortionfunds.org",
     "icon": "https://abortionfunds.org/wp-content/uploads/fbrfg/favicon-32x32.png",
     "slug": "nnaf-main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.63%",
-    "time": 1031,
-    "timeDay": 901,
-    "timeWeek": 922,
+    "time": 967,
+    "timeDay": 867,
+    "timeWeek": 909,
     "timeMonth": 798,
-    "timeYear": 1081,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2025-12-17": 999,
@@ -28,7 +28,7 @@
       "2026-07-05": 25,
       "2026-07-26": 9,
       "2026-07-25": 15,
-      "2026-09-04": 0
+      "2026-09-04": 11
     }
   },
   {
